@@ -25,6 +25,7 @@ A personal repository to track my DSA journey — solving problems one bug at a 
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/CodeWithAK28/DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/CodeWithAK28/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A personal repository to track my DSA journey — solving problems one bug at a 
 |  |
 | ------- |
 | [1627-graph-connectivity-with-threshold](https://github.com/CodeWithAK28/DSA/tree/master/1627-graph-connectivity-with-threshold) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/CodeWithAK28/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->

@@ -7,15 +7,18 @@ A personal repository to track my DSA journey — solving problems one bug at a 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/CodeWithAK28/DSA/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/CodeWithAK28/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/CodeWithAK28/DSA/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/CodeWithAK28/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/CodeWithAK28/DSA/tree/master/0841-keys-and-rooms) |
 | [0990-satisfiability-of-equality-equations](https://github.com/CodeWithAK28/DSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/CodeWithAK28/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +34,7 @@ A personal repository to track my DSA journey — solving problems one bug at a 
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/CodeWithAK28/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1627-graph-connectivity-with-threshold](https://github.com/CodeWithAK28/DSA/tree/master/1627-graph-connectivity-with-threshold) |
+| [1971-find-if-path-exists-in-graph](https://github.com/CodeWithAK28/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Math
 |  |
 | ------- |
